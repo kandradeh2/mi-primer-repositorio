@@ -1,11 +1,11 @@
 id_venta,fecha,cliente_id,producto,categoria,cantidad,precio_unitario,total_venta,metodo_pago,vendedor,region
-1,2024-01-15,C001,Laptop Gamer,Electrónica,1,1200.00,1200.00,Tarjeta,María González,Norte
-2,2024-01-15,C002,Smartphone X,Electrónica,2,600.00,1200.00,Efectivo,Carlos López,Sur
-3,2024-01-16,C003,Silla Oficina,Muebles,1,250.00,250.00,Transferencia,Ana Martínez,Este
-4,2024-01-16,C001,Monitor 24",Electrónica,1,300.00,300.00,Tarjeta,María González,Norte
-5,2024-01-17,C004,Mesa Escritorio,Muebles,1,450.00,450.00,Efectivo,Pedro Ramírez,Oeste
-6,2024-01-17,C005,Auriculares BT,Electrónica,3,80.00,240.00,Tarjeta,Ana Martínez,Este
-7,2024-01-18,C002,Teclado Mecánico,Electrónica,1,120.00,120.00,Transferencia,Carlos López,Sur
-8,2024-01-18,C006,Libro Marketing,Libros,2,35.00,70.00,Efectivo,María González,Norte
-9,2024-01-19,C003,Impresora Láser,Electrónica,1,280.00,280.00,Tarjeta,Pedro Ramírez,Oeste
-10,2024-01-19,C007,Cafetera Eléctrica,Hogar,1,150.00,150.00,Efectivo,Ana Martínez,Este
+C1,2024-01-15,C001,Laptop Gamer,Electrónica,1,1200.00,1200.00,Tarjeta,María González,Norte
+C2,2024-01-15,C002,Smartphone X,Electrónica,2,600.00,1200.00,Efectivo,Carlos López,Sur
+C3,2024-01-16,C003,Silla Oficina,Muebles,1,250.00,250.00,Transferencia,Ana Martínez,Este
+C4,2024-01-16,C001,Monitor 24",Electrónica,1,300.00,300.00,Tarjeta,María González,Norte
+C5,2024-01-17,C004,Mesa Escritorio,Muebles,1,450.00,450.00,Efectivo,Pedro Ramírez,Oeste
+C6,2024-01-17,C005,Auriculares BT,Electrónica,3,80.00,240.00,Tarjeta,Ana Martínez,Este
+C7,2024-01-18,C002,Teclado Mecánico,Electrónica,1,120.00,120.00,Transferencia,Carlos López,Sur
+C8,2024-01-18,C006,Libro Marketing,Libros,2,35.00,70.00,Efectivo,María González,Norte
+C9,2024-01-19,C003,Impresora Láser,Electrónica,1,280.00,280.00,Tarjeta,Pedro Ramírez,Oeste
+C10,2024-01-19,C007,Cafetera Eléctrica,Hogar,1,150.00,150.00,Efectivo,Ana Martínez,Este
