@@ -2,7 +2,7 @@ id_venta,fecha,cliente_id,producto,categoria,cantidad,precio_unitario,total_vent
 C1,2024-01-15,C001,Laptop Gamer,Electrónica,1,1200.00,1200.00,Tarjeta,María González,Norte
 C2,2024-01-15,C002,Smartphone X,Electrónica,2,600.00,1200.00,Efectivo,Carlos López,Sur
 C3,2024-01-16,C003,Silla Oficina,Muebles,1,250.00,250.00,Transferencia,Ana Martínez,Este
-C4,2024-01-16,C001,Monitor 24",Electrónica,1,300.00,300.00,Tarjeta,María González,Norte
+C4,2024-01-16,C001,Monitor 24,Electrónica,1,300.00,300.00,Tarjeta,María González,Norte
 C5,2024-01-17,C004,Mesa Escritorio,Muebles,1,450.00,450.00,Efectivo,Pedro Ramírez,Oeste
 C6,2024-01-17,C005,Auriculares BT,Electrónica,3,80.00,240.00,Tarjeta,Ana Martínez,Este
 C7,2024-01-18,C002,Teclado Mecánico,Electrónica,1,120.00,120.00,Transferencia,Carlos López,Sur
