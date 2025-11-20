@@ -1,1 +1,11 @@
-
+cliente_id,nombre,apellido,email,telefono,fecha_registro,ciudad,pais,segmento,estatus,edad,genero,ingreso_anual_estimado
+C001,Ana,Martínez,ana.martinez@email.com,+34-611-222-333,2023-03-15,Madrid,España,Premium,Activo,35,F,65000
+C002,Carlos,Rodríguez,c.rodriguez@email.com,+34-622-444-555,2023-05-20,Barcelona,España,Standard,Activo,28,M,45000
+C003,María,López,maria.lopez@email.com,+34-633-666-777,2023-01-10,Valencia,España,Premium,Activo,42,F,72000
+C004,Pedro,García,pedro.garcia@email.com,+34-644-888-999,2023-07-05,Sevilla,España,Standard,Inactivo,31,M,38000
+C005,Laura,Fernández,laura.fernandez@email.com,+34-655-111-222,2023-09-12,Bilbao,España,VIP,Activo,50,F,85000
+C006,David,Sánchez,d.sanchez@email.com,+34-666-333-444,2023-02-28,Málaga,España,Standard,Activo,26,M,42000
+C007,Elena,Gómez,e.gomez@email.com,+34-677-555-666,2023-11-15,Zaragoza,España,Premium,Activo,39,F,68000
+C008,Javier,Ruiz,j.ruiz@email.com,+34-688-777-888,2023-04-03,Murcia,España,Standard,Activo,33,M,47000
+C009,Sofía,Hernández,sofia.h@email.com,+34-699-999-000,2023-08-22,Palma de Mallorca,España,Standard,Inactivo,29,F,41000
+C010,Miguel,Díaz,m.diaz@email.com,+34-600-123-456,2023-12-10,Alicante,España,VIP,Activo,45,M,92000
